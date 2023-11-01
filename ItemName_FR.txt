@@ -1,0 +1,5 @@
+ItemName_FR = {
+	ItemName_mymod.LargeFreezer = "Grand congélateur",
+	ItemName_mymod.LargeFreezer1/2 = "Grand congélateur 1/2",
+	ItemName_mymod.LargeFreezer2/2 = "Grand congélateur 2/2",
+}
