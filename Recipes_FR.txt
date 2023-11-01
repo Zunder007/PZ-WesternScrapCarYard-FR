@@ -1,0 +1,4 @@
+Recipes_FR = {
+	Recipe_MakeLargeFreezer1/2 = "Fabriquer un Grand congélateur 1/2",
+	Recipe_MakeLargeFreezer2/2 = "Fabriquer un Grand congélateur 2/2",
+}
